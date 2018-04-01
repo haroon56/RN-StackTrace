@@ -1,0 +1,54 @@
+[
+  {
+    "id": 0,
+    "title": "Webpack",
+    "description": "webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset."
+  },
+  {
+    "id": 1,
+    "title": "React",
+    "description": "React is a JavaScript tool that makes it easy to reason about, construct, and maintain stateless and stateful user interfaces. It provides the means to declaratively define and divide a UI into UI components (a.k.a., React components) using HTML-like nodes called React nodes."
+  },
+  {
+    "id": 2,
+    "title": "React-Redux",
+    "description": "Redux is a terribly simple library for state management, and has made working with React more manageable for everyone. However, there are a lot of cases where people blindly follow boilerplate code to integrate redux with their React application without understanding all the moving parts involved."
+
+  },
+  {
+    "id": 3,
+    "title": "React-Native",
+    "description": "A React Native app is a real mobile app. With React Native, you don't build a mobile web app, an HTML5 app, or a hybrid app. You build a real mobile app that's indistinguishable from an app built using Objective-C or Java. React Native uses the same fundamental UI building blocks as regular iOS and Android apps."
+  },
+  {
+    "id": 4,
+    "title": "Redux",
+    "description": "Redux makes it easy to manage the state of your application. Another way of looking at this – it helps you manage the data you display and how you respond to user actions."
+
+  },
+  {
+    "id": 5,
+    "title": "Angular 4",
+    "description": "Angular is a platform that makes it easy to build applications with the web. Angular combines declarative templates, dependency injection, end to end tooling, and integrated best practices to solve development challenges. Angular empowers developers to build applications that live on the web, mobile, or the desktop."
+  },
+  {
+    "id": 6,
+    "title": "Vue",
+    "description": "Vue.js is one of those new software technologies that are being widely used across the world for web development. Vue.js is actually a JavaScript framework with various optional tools for building user interfaces."
+  },
+  {
+    "id": 7,
+    "title": "Lodash",
+    "description": "Lodash makes JavaScript easier by taking the hassle out of working with arrays, numbers, objects, strings, etc. Lodash’s modular methods are great for: Iterating arrays, objects, & stringsManipulating & testing valuesCreating composite functions"
+  },
+  {
+    "id": 8,
+    "title": "Axios",
+    "description": " Axios is a Javascript library used to make http requests from node.js or XMLHttpRequests from the browser and it supports the Promise API that is native to JS ES6."
+  },
+  {
+    "id": 9,
+    "title": "Java",
+    "description": "Java is a high-level programming language developed by Sun Microsystems. ... The Java syntax is similar to C++, but is strictly an object-oriented programming language. For example, most Java programs contain classes, which are used to define objects, and methods, which are assigned to individual classes."
+  }
+]
